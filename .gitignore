@@ -1,0 +1,34 @@
+# Ignore hidden meta files
+*.pidb.meta
+*.pidb
+
+# Ignore files from IDEs
+.vscode/
+.vs
+.vsconfig
+UserSettings/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.pidb
+*.sln
+*.unityproj
+*.booproj
+.DS_Store
+*.tmproj
+
+# Ignore auto-generated files
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+
+# Uncomment if you have Unity Asset Store plugins
+# /Assets/Plugins/
+
+# Uncomment if you have external tools in your project
+# /Assets/ExternalTools/
